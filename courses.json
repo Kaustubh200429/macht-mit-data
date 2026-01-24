@@ -10,7 +10,7 @@
         "totalTime": "190 hrs"
       }
     ],
-    "priceAll": "₹18,000 Full Course",
+    "priceAll": "₹15,000 Full Course",
   
   },
   {
@@ -24,8 +24,8 @@
         "totalTime": "125 hrs"
       }
     ],
-    "priceAll": "₹22,000 Full Course",
-    "pricePer": "₹3,500 per month"
+    "priceAll": "₹18,000 Full Course",
+  
   },
   {
     "id": 3,
@@ -38,8 +38,8 @@
         "totalTime": "150 hrs"
       }
     ],
-    "priceAll": "₹25,000 All Course",
-    "pricePer": "₹4,000 per month"
+    "priceAll": "₹31,000 All Course",
+   
   },
   {
     "id": 4,
@@ -52,13 +52,13 @@
         "totalTime": "340 hrs"
       }
     ],
-    "priceAll": "₹30,000 Combo Course",
-    "pricePer": "₹5,000 per month"
+    "priceAll": "₹32,000 Combo Course",
+  
   },
   {
     "id": 5,
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRDknhmSFHPKoWP0YY3E77IbbjWrZcESFIkQ&s",
-    "coursesName": "Spoken German for Daily Life",
+    "coursesName": "German A1 + A2 + B2 Combo",
     "courTeacher": [
       {
         "dcover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsM-doeSJ8GI3LT0wxcGywlwxgPCe5XzxAA&s",
@@ -66,13 +66,13 @@
         "totalTime": "150 hrs"
       }
     ],
-    "priceAll": "₹8,000 All Course",
-    "pricePer": "₹1,500 per month"
+    "priceAll": "₹66,000 All Course",
+  
   },
   {
     "id": 6,
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRDknhmSFHPKoWP0YY3E77IbbjWrZcESFIkQ&s",
-    "coursesName": "German for Jobs, Visa & Ausbildung",
+    "coursesName": "German B2 – Intermediate Level",
     "courTeacher": [
       {
         "dcover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsM-doeSJ8GI3LT0wxcGywlwxgPCe5XzxAA&s",
@@ -80,49 +80,7 @@
         "totalTime": "300 hrs"
       }
     ],
-    "priceAll": "₹18,000 All Course",
-    "pricePer": "₹3,000 per month"
+    "priceAll": "₹36,000 All Course",
+   
   },
-  {
-    "id": 7,
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRDknhmSFHPKoWP0YY3E77IbbjWrZcESFIkQ&s",
-    "coursesName": "German Complete Program (A1 → B1)",
-    "courTeacher": [
-      {
-        "dcover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsM-doeSJ8GI3LT0wxcGywlwxgPCe5XzxAA&s",
-        "name": "PAVAN RAMAKRISHNA",
-        "totalTime": "350 hrs"
-      }
-    ],
-    "priceAll": "₹70,000 All Course",
-    "pricePer": "₹10,000 per month"
-  },
-  {
-    "id": 8,
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRDknhmSFHPKoWP0YY3E77IbbjWrZcESFIkQ&s",
-    "coursesName": "German B2 – Upper Intermediate Level",
-    "courTeacher": [
-      {
-        "dcover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsM-doeSJ8GI3LT0wxcGywlwxgPCe5XzxAA&s",
-        "name": "PAVAN RAMAKRISHNA",
-        "totalTime": "200 hrs"
-      }
-    ],
-    "priceAll": "₹35,000 All Course",
-    "pricePer": "₹5,500 per month"
-  },
-  {
-    "id": 9,
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRDknhmSFHPKoWP0YY3E77IbbjWrZcESFIkQ&s",
-    "coursesName": "German C1 – Advanced / Academic Level",
-    "courTeacher": [
-      {
-        "dcover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsM-doeSJ8GI3LT0wxcGywlwxgPCe5XzxAA&s",
-        "name": "PAVAN RAMAKRISHNA",
-        "totalTime": "240 hrs"
-      }
-    ],
-    "priceAll": "₹45,000 All Course",
-    "pricePer": "₹7,000 per month"
-  }
 ]
