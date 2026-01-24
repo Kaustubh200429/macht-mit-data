@@ -1,6 +1,7 @@
 [
   {
-    name: "Online Basic (A1)",price: "₹12,000",
+    name: "Basic (A1)",
+    price: "₹15,000",
    desc: (
       <ul className="features">
         <li>
@@ -22,8 +23,8 @@
     ),
   },
   {
-    name: "Online Standard (A1 + A2)",
-    price: "₹28,000",
+    name: "Standard (A1 + A2)",
+    price: "₹32,000",
     desc:  (
       <ul className="features">
         <li><i className="fa fa-check"></i> A1 + A2 Complete Coverage</li>
@@ -35,8 +36,8 @@
     ),
   },
   {
-    name: "Online Advanced (B1)",
-    price: "₹25,000 ",
+    name: "Advanced (A1 + A2 + B2)",
+    price: "₹66,000 ",
     desc: (
       <ul className="features">
         <li><i className="fa fa-check"></i> Advanced Grammar & Speaking</li>
@@ -47,8 +48,8 @@
       </ul>
     ),},
   {
-    name: "Offline Classroom (A1)",
-    price: "₹20,000",
+    name: "Offline Classroom (B1)",
+    price: "₹31,000",
     desc: (
       <ul className="features">
         <li><i className="fa fa-check"></i> Classroom-Based Learning</li>
@@ -60,7 +61,7 @@
     ),},
   {
     name: "Offline Classroom (A2)",
-    price: "₹22,000",
+    price: "₹18,000",
     desc: (
       <ul className="features">
       <li><i className="fa fa-check"></i> Classroom-Based Learning</li>
@@ -72,16 +73,5 @@
       <li><i className="fa fa-check"></i> Trainer Feedback & Assessment</li>
     </ul>
     ),},
-  {
-    name: "Offline Premium (A1 → B1)",
-    price: "₹70,000",
-    desc: (
-      <ul className="features">
-        <li><i className="fa fa-check"></i> Complete German Foundation</li>
-        <li><i className="fa fa-check"></i> Advanced Speaking & Writing</li>
-        <li><i className="fa fa-check"></i> Goethe Exam Preparation</li>
-        <li><i className="fa fa-check"></i> Career & Visa Assistance</li>
-        <li><i className="fa fa-check"></i> Institute Certification</li>
-      </ul>
-    ),},
+ 
 ]
